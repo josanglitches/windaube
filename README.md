@@ -10,6 +10,8 @@ Simulateur parodique d'OS et jeu éducatif de cybersécurité.
 Windaube est un faux système d'exploitation qui vous apprend la cybersécurité 
 en jouant. Trouvez les vulnérabilités, protégez-vous des menaces, débloquez et jouez à des mini-jeux... et plus encore!
 
+<img width="417" height="377" alt="1" src="https://github.com/user-attachments/assets/0ecbd05d-d113-4cb2-8116-099595ac6f0c" />
+
 ## 🛡️ Fonctionnalités
 
 - Bureau interactif façon Windows avec apps, fichiers et menus
@@ -17,6 +19,10 @@ en jouant. Trouvez les vulnérabilités, protégez-vous des menaces, débloquez 
 - Système de score, missions et progression
 - Quiz de cybersécurité en fin de partie
 - Aucune donnée collectée (requiert quand même un accès internet car le jeu utilise Google fonts)
+
+<img width="1366" height="593" alt="2" src="https://github.com/user-attachments/assets/f1885391-92f6-4cfc-a8ca-848402988116" />
+
+<img width="1365" height="642" alt="3" src="https://github.com/user-attachments/assets/38db2d04-b913-41d5-bc24-642c8dbf685d" />
 
 ## 📥 Téléchargement
 
