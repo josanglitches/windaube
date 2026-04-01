@@ -1,7 +1,7 @@
 # 💩 Windaube — Édition Intégrale 2026
 
 French cybersecurity parodic OS sandbox game, educational and fun! Portable app packaged with Node.js/Electron
-Find the vulnerabilities, protect against threats, unblock and play mini-games... and more!
+Find the vulnerabilities, protect against threats, unlock and play mini-games... and more!
 
 Simulateur parodique d'OS et jeu éducatif de cybersécurité.
 
@@ -11,6 +11,12 @@ Windaube est un faux système d'exploitation qui vous apprend la cybersécurité
 en jouant. Trouvez les vulnérabilités, protégez-vous des menaces, débloquez et jouez à des mini-jeux... et plus encore!
 
 <img width="417" height="377" alt="1" src="https://github.com/user-attachments/assets/0ecbd05d-d113-4cb2-8116-099595ac6f0c" />
+
+## 🎬 Aperçu / Preview
+
+[![Windaube Gameplay](https://img.youtube.com/vi/pJxqrD-pJqg/maxresdefault.jpg)](https://www.youtube.com/watch?v=pJxqrD-pJqg)
+
+> 🎥 Cliquez sur l'image pour voir la vidéo / Click to watch
 
 ## 🛡️ Fonctionnalités
 
