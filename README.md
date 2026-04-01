@@ -38,7 +38,7 @@ Cliquez "Informations complémentaires" puis "Exécuter quand même".
 ## 📜 Crédits
 
 Idées et direction créative : josanglitches@gmail.com
-Code : Claude AI (Anthropic)
+Code : Claude AI (Anthropic Opus 4.6)
 Protégé par enveloppe Soleau INPI
 
 ## ☕ Soutenir le projet
